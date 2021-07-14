@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "862910306034",
+    "project_id": "jotit-1d9e3",
+    "storage_bucket": "jotit-1d9e3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:862910306034:android:d2b778e0c994c1ffce626b",
+        "android_client_info": {
+          "package_name": "com.atulgupta.JotIt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "862910306034-sn2k1k2vs4jg4tg9ntul7j0bod49un2a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.atulgupta.JotIt",
+            "certificate_hash": "1158309e486859fa1f0a6e710a2119cc35ab5917"
+          }
+        },
+        {
+          "client_id": "862910306034-s2p2kq8lt1qrsejdvagjrmt179q5ie3s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGJLgV8lWnRtuL-OBknwyE7WFcIHOs3wc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "862910306034-s2p2kq8lt1qrsejdvagjrmt179q5ie3s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
